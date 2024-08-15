@@ -1,13 +1,3 @@
-import sys
-if sys.platform.startswith("win"):
-    import os
-    os.system('pip install pywin32')
-import os
-os.system('pip install --upgrade pip')
-
-import os
-os.system('pip install yfinance')
-
 import numpy as np
 import streamlit as st
 import pandas as pd
