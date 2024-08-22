@@ -1,7 +1,10 @@
+
+<h5>Stock Market Analysis Dashboard</h5>
+
 File Link:-https://nbviewer.org/github/Rounak459/stock/blob/main/test.py
 Project Link:- https://stock-maket-analysis-by-rounakkhapre2402.streamlit.app/
 
-# Stock Market Analysis Dashboard
+
 
 This Streamlit-based web application provides users with comprehensive tools to analyze stock market data, including historical pricing, moving averages, financial statements, news, and market trends.
 
