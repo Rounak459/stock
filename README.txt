@@ -1,4 +1,5 @@
-Link:-https://nbviewer.org/github/Rounak459/stock/blob/main/test.py
+File Link:-https://nbviewer.org/github/Rounak459/stock/blob/main/test.py
+Project Link:- https://stock-maket-analysis-by-rounakkhapre2402.streamlit.app/
 
 # Stock Market Analysis Dashboard
 
@@ -45,7 +46,7 @@ This Streamlit-based web application provides users with comprehensive tools to 
    ```
 3. Run the application:
    ```
-   streamlit run app.py
+   stream lit run app.py
    ```
 
 ## API Keys
